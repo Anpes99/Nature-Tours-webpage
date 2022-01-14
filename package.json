@@ -1,0 +1,22 @@
+{
+  "name": "nature-tours_webpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anpes99/Nature-Tours-webpage.git"
+  },
+  "author": "anpes99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anpes99/Nature-Tours-webpage/issues"
+  },
+  "homepage": "https://github.com/Anpes99/Nature-Tours-webpage#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
